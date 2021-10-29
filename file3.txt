@@ -2,5 +2,9 @@ linija 11
 nova linija 3333333
 nova linija 2222222
 treca linija 
+<<<<<<< HEAD
 cetvrta linija test
+=======
+cetvrta 
+>>>>>>> 707ffe7 (Merge conflict branch commit 2)
 nova linija
